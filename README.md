@@ -20,7 +20,7 @@
 - 📲 Mobile developer
 - λ  CEO coming soon...
 - 🌮 I´m from Mexico and I live in Xalapa
-- <img src="https://www.facebook.com/EgresadosUV/posts/2844639795605818/" alt="emojiUV" width="1ch" height="1ch" align="left">Currently I´m a college student from the Universidad Veracruzana
+- <img src="https://www.facebook.com/EgresadosUV/posts/2844639795605818/" alt="emojiUV" width="100" height="100" align="left">Currently I´m a college student from the Universidad Veracruzana <img src="https://img2.freepng.es/20180530/zut/kisspng-universidad-veracruzana-direccin-general-editor-flor-de-lis-5b0efd00789b46.507176331527708928494.jpg" alt="uv">
 - 🦾 Studying Computational Technologies
 - 💻 Majoring in Information Technology
 - 🧑‍🏫 Founder of <strong>Lambda Software and Teams</strong>
