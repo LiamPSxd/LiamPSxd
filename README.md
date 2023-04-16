@@ -1,5 +1,6 @@
 # Hi there, I´m Liam λ👋🏽
-![LambdaSofT](https://user-images.githubusercontent.com/112488911/232334961-4f47f574-e890-44df-8881-4ffa79d93d6c.png)
+![LambdaSofT](https://user-images.githubusercontent.com/112488911/232335040-ecd7cf33-e0f8-4a20-a215-2703c6e41fb8.png)
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
 
