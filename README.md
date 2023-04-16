@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=LiamPSxd.LiamPSxd)
+
 <div align="center">
   <h1><strong>Hi there, I´m <a href="">Liam PS λ</a> 👋🏽</strong></h1>
 </div>
