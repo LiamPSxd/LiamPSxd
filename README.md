@@ -2,9 +2,9 @@
 
 <div align="center">
   <h1><strong>Hi there, I´m <a href="">Liam PS λ</a> 👋🏽</strong></h1>
+  <img src="https://user-images.githubusercontent.com/112488911/232362540-6f0e771f-b72b-4ba1-bab2-97b4771f9ec7.png">
 </div>
-
-![LambdaSofT](https://user-images.githubusercontent.com/112488911/232339025-2db0dbcf-33da-4f86-890d-89e2a67b9794.png)
+<br>
 
 ## 🐣 About me 🐣
 - 👨🏽‍💻 Software developer
