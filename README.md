@@ -9,7 +9,9 @@
 ## 🐣 About me 🐣
 - 👨🏽‍💻 Software developer
 - 📲 Mobile developer
-- λ  CEO coming soon...
+- λ Scrum Master
+- λ Iconix Master
+- λ CEO coming soon...
 - 🌮 I´m from Mexico and I live in Xalapa
 - ![emoji](https://user-images.githubusercontent.com/112488911/232339119-547cb1e1-41c3-4799-b22f-33fdaba38e5d.png) Currently I´m a college student from the Universidad Veracruzana ![uv](https://user-images.githubusercontent.com/112488911/232339151-cd3e42ee-7016-4098-82bc-94b1a9d6ddc4.jpg)
 - 🦾 Studying Computational Technologies
@@ -33,7 +35,7 @@
 </p>
 <br>
 
-## Software
+## 🖥️ Software 🖥️
 <table>
 <tr>
   <td width="50%">
@@ -53,7 +55,7 @@
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics ⚙️
 <p align="center">
   <a href="https://github.com/LiamPSxd">
     <img width=390 height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LiamPSxd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -79,24 +81,20 @@
 
 ## 👨‍💻 Repositories 👨‍💻
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/LiamPSxd/Respawn" title="Desarrollo de Software">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LiamPSxd&repo=Respawn&theme=dark&border_color=61dafb&border_radius=30">
+  <a href="https://github.com/LiamPSxd/Respawn" title="Desarrollo de Software">
+    <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=LiamPSxd&repo=Respawn&theme=light&border_color=dark&border_radius=20">
   </a>
-  <a align="left" href="https://github.com/LiamPSxd/78927-mat" title="T4IS">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LiamPSxd&repo=78927-mat&theme=dark&border_color=61dafb&border_radius=30">
-  </a>
-</div>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/LiamPSxd/78928" title="TW">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LiamPSxd&repo=78928&theme=dark&border_color=61dafb&border_radius=30">
+  <a href="https://github.com/LiamPSxd/78927-mat" title="T4IS">
+    <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=LiamPSxd&repo=78927-mat&theme=light&border_color=dark&border_radius=20">
   </a>
-  <a align="right" href="https://github.com/LiamPSxd/Pistas" title="TW">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LiamPSxd&repo=Pistas&theme=dark&border_color=61dafb&border_radius=30">
-  </a>
-</div>
-<br>
 
-<h4 align="center">
-  <a href="https://github.com/LiamPSxd?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+  <a href="https://github.com/LiamPSxd/78928" title="TW">
+    <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=LiamPSxd&repo=78928&theme=light&border_color=dark&border_radius=20">
+  </a>
+  <br><br><br><br><br><br>
+  <br><br><br><br><br><br>
+  <br><br><br><br><br><br>
+  <br><br><br><br><br><br>
+  <a align="center" href="https://github.com/LiamPSxd?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</div>
