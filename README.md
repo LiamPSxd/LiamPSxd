@@ -14,7 +14,7 @@
 - ![emoji](https://user-images.githubusercontent.com/112488911/232339119-547cb1e1-41c3-4799-b22f-33fdaba38e5d.png) Currently I´m a college student from the Universidad Veracruzana ![uv](https://user-images.githubusercontent.com/112488911/232339151-cd3e42ee-7016-4098-82bc-94b1a9d6ddc4.jpg)
 - 🦾 Studying Computational Technologies
 - 💻 Majoring in Information Technology
-- 🧑‍🏫 Founder of <strong>Lambda Software and Teams</strong>
+- 🧑‍🏫 <strong>Lambda Software and Teams</strong> founder
 <br>
 
 ## Software
