@@ -1,6 +1,7 @@
 <p align="right">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=LiamPSxd.LiamPSxd" alt="LiamPSxd" />
-  <img src="https://komarev.com/ghpvc/?username=liampsxd&label=Profile%20views&color=0e75b6&style=flat" alt="liampsxd" />
+<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=LiamPSxd.LiamPSxd" alt="LiamPSxd" />
+  <img src="https://komarev.com/ghpvc/?username=liampsxd&label=Profile%20views&color=0e75b6&style=flat" alt="liampsxd" /> -->
+  <img src="https://visitcount.itsvg.in/api?id=LiamPSxd&icon=2&color=12" alt="liampsxd" />
 </p>
 
 <div align="center">
@@ -59,20 +60,25 @@
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Trophies and Analytics ⚙️
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LiamPSxd" alt="LiamPSxd" />
-  </a>
-</p>
+<!-- ## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
+## 🏆 GitHub Trophies 🏆
 <p align="center">
   <a href="https://github.com/LiamPSxd">
-    <img width=390 height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LiamPSxd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=LiamPSxd&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="LiamPSxd" />
+  </a>
+</p>
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics ⚙️
+<p align="center">
+  <a href="https://github.com/LiamPSxd">
+    <img width=390 height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LiamPSxd&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false"/>
   </a>
 
   <a href="https://github.com/LiamPSxd/github-readme-streak-stats" title="Go to Source">
-    <img width=390 height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LiamPSxd&theme=dark&border=61dafb&hide_border=true" alt="LiamPSxd" />
+    <img width=390 height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LiamPSxd&theme=dark&border=61dafb&hide_border=false" alt="LiamPSxd" />
   </a>
 
   <a href="https://github.com/LiamPSxd/github-readme-stats" title="Go to Source">
@@ -80,7 +86,7 @@
   </a>
 
   <a href="https://github.com/LiamPSxd/github-readme-stats">
-    <img width=390 height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamPSxd&hide=c%23&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&theme=dark" />
+    <img width=390 height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamPSxd&hide=c%23&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&theme=dark" />
   </a>
 </p>
 <br>
@@ -92,8 +98,19 @@
   <a href="https://stackexchange.com/users/28383737"><img src="https://stackexchange.com/users/flair/28383737.png" width="208" height="58" alt="Perfil de Blanket en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad" title="Perfil de Blanket en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad"></a>
 </div>
 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://es.stackoverflow.com/users/326901/blanket) 
+<br>
+
 ## 🐍 Snake eating my contribution 🐍
-![snake gif](https://github.com/LiamPSxd/LiamPSxd/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/LiamPSxd/LiamPSxd/blob/output/github-contribution-grid-snake.gif" />
+</p>
+<br>
+
+## 🔝 Top Contributed Repo 🔝
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=LiamPSxd&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" />
+</p>
 <br>
 
 ## 👨‍💻 Repositories 👨‍💻
