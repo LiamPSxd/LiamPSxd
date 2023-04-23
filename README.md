@@ -77,11 +77,11 @@
 <br>
 
 ## 📎 Profile StackOverflow 📎
-<p align="center">
-  <a href="https://es.stackoverflow.com/users/326901/blanket"><img src="https://es.stackoverflow.com/users/flair/326901.png" width="208" height="58" alt="perfil para Blanket en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica" title="perfil para Blanket en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica"></a>
+<div align="center">
+  <a href="https://es.stackoverflow.com/users/326901/blanket"><img src="https://es.stackoverflow.com/users/flair/326901.png" width="208" height="58" alt="Perfil de Blanket en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica" title="Perfil de Blanket en Stack Overflow en espa&#241;ol, Preguntas y respuestas para programadores y profesionales de la inform&#225;tica"></a>
 
-  <a href="https://stackexchange.com/users/28383737"><img src="https://stackexchange.com/users/flair/28383737.png" width="208" height="58" alt="perfil para Blanket en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad" title="perfil para Blanket en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad"></a>
-</p>
+  <a href="https://stackexchange.com/users/28383737"><img src="https://stackexchange.com/users/flair/28383737.png" width="208" height="58" alt="Perfil de Blanket en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad" title="Perfil de Blanket en Stack Exchange, una red de sitios gratuitos de preguntas y respuestas impulsados por la comunidad"></a>
+</div>
 
 ## 🐍 Snake eating my contribution 🐍
 ![snake gif](https://github.com/LiamPSxd/LiamPSxd/blob/output/github-contribution-grid-snake.gif)
