@@ -1,4 +1,7 @@
-![](https://visitor-badge.glitch.me/badge?page_id=LiamPSxd.LiamPSxd)
+<p align="right">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=LiamPSxd.LiamPSxd" alt="LiamPSxd" />
+  <img src="https://komarev.com/ghpvc/?username=liampsxd&label=Profile%20views&color=0e75b6&style=flat" alt="liampsxd" />
+</p>
 
 <div align="center">
   <h1><strong>Hi there, I´m <a href="">Liam PS λ</a> 👋🏽</strong></h1>
@@ -56,7 +59,13 @@
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics ⚙️
+### ⚙️ &nbsp;GitHub Trophies and Analytics ⚙️
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LiamPSxd" alt="LiamPSxd" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/LiamPSxd">
     <img width=390 height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LiamPSxd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
